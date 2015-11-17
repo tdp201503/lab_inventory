@@ -1,2 +1,2 @@
-# lab_inventory
-Aplicación de referencia para proyecto final de técnicas de programación.
+# LabInventory
+Aplicacion en PyQt de referencia para proyecto final de Tecnicas de Programacion.

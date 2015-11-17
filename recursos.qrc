@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="imagenes">
+    <file>recursos/information3.png</file>
+    <file>recursos/triangle38.png</file>
+    <file>recursos/scientist.png</file>
+  </qresource>
+</RCC>
