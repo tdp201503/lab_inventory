@@ -23,7 +23,7 @@ from persistencia.base_datos import BaseDatos
 # Informacion para conexion a base de datos
 URL = 'localhost'
 USUARIO = 'root'
-CONTRASENA = 'debian345' #change password
+CONTRASENA = '12345' #change password
 NOMBRE_BD   = 'lab_inventory'
 
 # Enumeracion para los tipos de mensajes
